@@ -28,3 +28,9 @@ Ooh live Tv is a TV streaming app. I fixed a bug in which a video from some chan
 ![lazza](../images/lazza-app-2.png)
 
 Lazza is an app for ice cream bussiness. Features include taking and tracking ice cream delivery, showing scheduled delivery time, and customer address map.
+
+## Restaurant POS
+
+![restaurant POS](../images/restaurant-pos.png)
+
+A restaurant POS app. I connect this app to a backend and added a feature to print receipt with BLE printer.
