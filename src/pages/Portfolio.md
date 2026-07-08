@@ -34,3 +34,9 @@ Lazza is an app for ice cream bussiness. Features include taking and tracking ic
 ![restaurant POS](../images/restaurant-pos.png)
 
 A restaurant POS app. I connect this app to a backend and added a feature to print receipt with BLE printer.
+
+## Dropshipper
+
+![dropshipper](../images/dropship.png)
+
+A dropship app. I add a menu to display a list of dropshipper, and translate the app to Indonesian.
